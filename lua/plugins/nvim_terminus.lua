@@ -1,0 +1,3 @@
+return {
+  "brettanomyces/nvim-terminus",
+}
