@@ -6,7 +6,7 @@ return {
       log_level = "NONE",
     },
     search = {
-      cwd = {
+      mac_anaconda = {
         command = "$FD 'bin/python$' /opt/homebrew/anaconda3/envs/ --full-path --color never -I -a -L -E /proc -E .git/ -E .wine/ -E .steam/ -E Steam/ -E site-packages/",
       },
     },
