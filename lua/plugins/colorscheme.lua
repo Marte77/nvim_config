@@ -20,6 +20,8 @@ return {
     end,
   },
   { "rmehri01/onenord.nvim" },
+  { "Scysta/pink-panic.nvim" },
+  { "projekt0n/github-nvim-theme" },
   {
     "LazyVim/LazyVim",
     opts = {
