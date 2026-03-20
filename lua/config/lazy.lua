@@ -52,9 +52,9 @@ require("lazy").setup({
   },
 })
 
-vim.api.nvim_create_autocmd({ "py" }, {
-  pattern = { "lua" },
-  callback = function()
-    vim.b.autoformat = false
-  end,
-})
+-- vim.api.nvim_create_autocmd({ "py" }, {
+--   pattern = { "lua" },
+--   callback = function()
+--     vim.b.autoformat = false
+--   end,
+-- })
